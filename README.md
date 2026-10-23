@@ -1,0 +1,1 @@
+Modern OJT portfolio. Open index.html to preview. Upload contents to GitHub repository root; Settings > Pages > Deploy from branch > main > /(root). Edit index.html, style.css and script.js. Confirm photo permissions before publishing.
